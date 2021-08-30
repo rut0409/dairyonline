@@ -1,0 +1,3 @@
+1. Do this in command line to install node modules: npm install 
+2. To automate server after changes: npm install nodemon
+3. Start server by : nodemon app.js 
